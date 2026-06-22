@@ -12,3 +12,6 @@ A full-stack, B.Tech-level smart learning ecosystem built with **Python**, **Str
 2. Install all dependencies:
    ```bash
    pip install -r requirements.txt
+   3. Create a `.env` file in the root directory and add your key:
+```env
+   GEMINI_API_KEY=your_api_key_here
